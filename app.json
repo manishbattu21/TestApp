@@ -1,13 +1,5 @@
 {
   "name": "sample",
-  "scripts": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {}
-  ]
+  "description":"test app sample",
+  "repository":"https://github.com/manishbattu21/TestApp",
 }
