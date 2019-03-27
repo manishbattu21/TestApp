@@ -3,9 +3,6 @@
   "scripts": {
   },
   "formation": {
-    "web": {
-      "quantity": 1
-    }
   },
   "addons": [
 
