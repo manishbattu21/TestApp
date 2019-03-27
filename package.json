@@ -4,6 +4,5 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.html",
   "scripts": {
-    "start": "node index.html"
   }
 }
